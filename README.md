@@ -1,6 +1,7 @@
 COVID-19 Global Data Tracker
 
 objectives
+
 Buildig a data analysis and reporting notebook (or app) that tracks global COVID-19 trends. The project analyzes cases, deaths, recoveries, and vaccinations across countries and time. it involed cleaning and processing real-world data, performing exploratory data analysis (EDA), generating insights, and visualizing trends using Python data tools.
 
  Project Objectives:
